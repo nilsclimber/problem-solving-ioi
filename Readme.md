@@ -17,7 +17,7 @@
 1. Créer un commit
 
     ```bash
-    git commit -m "Ajout du mode d'emploi"
+    git commit -m "Ajout de quelque chose"
     ```
 
 1. Pousser le commit sur le remote
